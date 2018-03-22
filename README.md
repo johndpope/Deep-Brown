@@ -1,2 +1,2 @@
 # Deep-Brown
-An LSTM based story geenrator
+An LSTM to develop a based story generator, who is named as Deep Brown.
